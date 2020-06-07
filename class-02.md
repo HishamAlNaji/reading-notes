@@ -77,7 +77,6 @@ p {
 
 **All CSS Simple Selectors**
 |Selector|	Example	  |   Example description|
-| ----------- | ----------- | ----------- |
 |.class	    |.intro	     |Selects all elements with class="intro"|
 |#id	         |#firstname	 |Selects the element with id="firstname"|
 |*	         |*	         |Selects all elements|
