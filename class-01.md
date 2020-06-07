@@ -55,10 +55,17 @@ You can read more about semantic elements in our HTML Semantics chapter.
 
 ## Lets talk now about JS (JavaScript) :
 
-#### JavaScript Can Change HTML Content
+#### JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.)
 
+![JS](https://www.bitdegree.org/tutorials/wp-content/uploads/2018/10/What-Is-JavaScript-Used-For-And-Why-You-Should-Learn-It.jpg)
 
+## The <script> tag is used to define a client-side script (JavaScript).
 
+## The <script> element either contains script statements, or it points to an external script file through the src attribute.
+
+## Common uses for JavaScript are image manipulation, form validation, and dynamic changes of content.
+
+## To select an HTML element, JavaScript most often uses the document.getElementById() method.
 
 
 
