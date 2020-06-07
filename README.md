@@ -5,7 +5,7 @@
 | **page**        | **assignments** |
 | ----------- | ----------- |
 | 1           | [assignment 1](https://hishamalnaji.github.io/reading-notes/class-01) |
-| 2           | [assignment 2]() |
+| 2           | [assignment 2](https://hishamalnaji.github.io/reading-notes/class-02) |
 | 3           | [assignment 3]() |
 | 4           | [assignment 4]() |
 | 5           | [assignment 5]() |
