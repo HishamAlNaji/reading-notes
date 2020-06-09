@@ -80,3 +80,16 @@ function name(parameter1, parameter2, parameter3) {
 ```
 
 **JavaScript has function scope: Each function creates a new scope.Scope determines the accessibility (visibility) of these variables.Variables defined inside a function are not accessible (visible) from outside the function.**
+
+## Definition of Pair Programming :
+**As the name implies, pair programming is where two developers work using only one machine. Each one has a keyboard and a mouse. One programmer acts as the driver who codes while the other will serve as the observer who will check the code being written, proofread and spell check it, while also figuring out where to go next. These roles can be switched at any time: the driver will then become the observer and vice versa.**
+
+***It’s also commonly called “pairing,” “programming in pairs,” and “paired programming.”***
+
+### Pair Programming Advantages :
+
+1. Two heads are better than one
+2. More efficient
+3. Fewer coding mistakes
+4. An effective way to share knowledge
+5. Develops your staff’s interpersonal skills
