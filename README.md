@@ -9,7 +9,7 @@
 | 3           | [assignment 3](https://hishamalnaji.github.io/reading-notes/class-03) |
 | 4           | [assignment 4](https://hishamalnaji.github.io/reading-notes/class-04) |
 | 5           | [assignment 5](https://hishamalnaji.github.io/reading-notes/class-05) |
-| 6           | [assignment 6]() |
+| 6           | [assignment 6](https://hishamalnaji.github.io/reading-notes/class-06) |
 | 7           | [assignment 7]() |
 | 8           | [assignment 8]() |
 | 9           | [assignment 9]() |
