@@ -11,7 +11,7 @@
 | 5           | [assignment 5](https://hishamalnaji.github.io/reading-notes/class-05) |
 | 6           | [assignment 6](https://hishamalnaji.github.io/reading-notes/class-06) |
 | 7           | [assignment 7](https://hishamalnaji.github.io/reading-notes/class-07) |
-| 8           | [assignment 8]() |
+| 8           | [assignment 8](https://hishamalnaji.github.io/reading-notes/class-08) |
 | 9           | [assignment 9]() |
 | 10           | [assignment 10]() |
 | 11           | [assignment 11]() |
