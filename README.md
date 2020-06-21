@@ -14,8 +14,8 @@
 | 8           | [assignment 8](https://hishamalnaji.github.io/reading-notes/class-08) |
 | 9           | [assignment 9](https://hishamalnaji.github.io/reading-notes/class-09) |
 | 10           | [assignment 10](https://hishamalnaji.github.io/reading-notes/class-10) |
-| 11           | [assignment 11]() |
-| 12           | [assignment 12]() |
+| 11           | [assignment 11](https://hishamalnaji.github.io/reading-notes/class-11) |
+| 12           | [assignment 12](https://hishamalnaji.github.io/reading-notes/class-12) |
 | 13           | [assignment 13]() |
 | 14           | [assignment 14]() |
 | 15           | [assignment 15]() |
